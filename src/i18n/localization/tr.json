@@ -1,0 +1,65 @@
+{
+    "languages": {
+        "en": "English",
+        "de": "Deutsch",
+        "ru": "Russian",
+        "tr": "Türkçe"
+    },
+    "menu": {
+        "info": {
+            "title": "MalumMenu",
+            "desc": "v{0} ({1}) — Yapımcısı: Astral"
+        },
+        "tabs": {
+            "debug": "<b>——— Hata Ayıklama ———</b>",
+            "movement": "<b>——— Hareket ———</b>",
+            "esp": "<b>——— ESP ———</b>",
+            "roles": "<b>——— Roller ———</b>",
+            "ship": "<b>——— Gemi ———</b>",
+            "passive": "<b>——— Pasif Özellikler ———</b>",
+            "other": "<b>——— Diğer ———</b>"
+        },
+        "functions": {
+            "go_to_main_menu": "Ana Menüye Dön",
+
+            "noclip": "NoClip (Duvardan Geçme)",
+            "custom_speed": "Özel Hız Kullan",
+            "speed_val": "Hız Değeri: {0} / 20",
+
+            "no_shadows": "Gölgeleri Kapat",
+
+            "complete_my_tasks": "Görevlerimi Tamamla",
+
+            "call_meeting": "Acil Toplantı Çağır",
+            "sabotage_reactor": "Reaktörü Sabote Et",
+            "open_sabotage_map": "Sabotaj Haritasını Aç",
+            "unlock_vents": "Havalandırmaların Kilidini Aç",
+            "kick_vents": "Herkesi Havalandırmadan At",
+            "walk_in_vents": "Havalandırmada Yürüme Modu",
+
+            "unlock_cosmetics": "Kozmetiklerin Kilidini Aç",
+            "full_resolution": "Tam Çözünürlük",
+            "disable_analytics": "Veri Toplamayı Kapat",
+
+            "uwuify": "UwU Modu?",
+            "keyboard_mode": "Klavye Desteği",
+            "keyboard_mode_note": "Fiziksel klavye gerektirir. Dokunmatik kontroller devre dışı kalabilir."
+        },
+        "other": {
+            "language": "Dil Seçimi",
+            "github_url": "GitHub Deposu (Yıldız Bırakın!)",
+            "discord_url": "Discord Sunucusu",
+            "malummenu_url": "PC Sürümü İçin MalumMenu!",
+            "changelog": "Sürüm Notları"
+        },
+        "toasts": {
+            "no_overlay_permission": "Menüyü gösterebilmek için 'Ekran Üzerinde Gösterim' izni gereklidir.",
+            "hide_button": "Gizle",
+            "close_button": "Kapat",
+            "hide_callback": "Menü simgesi gizlendi.",
+            "kill_callback": "Mod menüsü kapatıldı.",
+            "exit_game": "Oyundan çıkmak için butona basılı tutun.",
+            "on_locale_changed": "Menü dili '{0}' olarak değiştirildi. Uygulamak için oyunu yeniden başlatın."
+        }
+    }
+}
